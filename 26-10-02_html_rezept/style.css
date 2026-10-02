@@ -22,3 +22,21 @@ img {
 a {
   color: #b3261e;
 }
+
+.infos {
+  font-weight: bold;
+}
+
+.tipp {
+  background-color: #ffe9b0;
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 30px;
+  padding: 15px 0;
+  text-align: center;
+  border-top: 1px solid #cccccc;
+}
